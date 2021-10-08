@@ -1,1 +1,2 @@
-
+var currTime = 50;
+setTimeout(function(){ alert("The time is "+currTime); }, 5000);
